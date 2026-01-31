@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Internet Exposed Device)](https://github.com/nabilalam14/mde-hunting-internet-exposed-vm/blob/main/README.md)**
 - **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/nabilalam14/mde-hunting-sudden-network-slowdowns/)**
-- **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/nabilalam14/mde-suspected-data-exfiltration-)**
+- **[Threat Hunting Scenario (Suspected Data Exfiltration)](https://github.com/nabilalam14/mde-suspected-data-exfiltration-)**
 
 <hr/>
 
