@@ -15,6 +15,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Sudden Network Slowdowns)](https://github.com/nabilalam14/mde-hunting-sudden-network-slowdowns/)**
 - **[Threat Hunting Scenario (Suspected Data Exfiltration)](https://github.com/nabilalam14/mde-suspected-data-exfiltration-)**
 
+##  Incident Response
+
+- **[Incident Response Scenario (Virtual Machine Brute Force Detection)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
 <hr/>
 
 ## 🤳 Connect With Me
