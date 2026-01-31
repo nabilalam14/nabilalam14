@@ -18,6 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ##  Incident Response
 
 - **[Incident Response Scenario (Virtual Machine Brute Force Detection)](https://github.com/nabilalam14/ir-vm-bruce-force-detection/)**
+- **[Incident Response Scenario (Virtual Machine Brute Force Detection)](https://github.com/nabilalam14/im-powershell-suspicious-web-request/)**
 
 <hr/>
 
